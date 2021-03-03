@@ -7,3 +7,5 @@
 ```python
 python new_window.py
 ```
+
+![](https://github.com/WangRongsheng/Mask-Detection-yolov4-tiny/blob/main/demo.png)
